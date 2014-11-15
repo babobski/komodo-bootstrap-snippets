@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "pager-block", 
+  "value": [
+    "<ul class=\"pager\">", 
+    "  <li class=\"previous\"><a href=\"#\">&larr; !@#_currentPosOlder!@#_anchor</a></li>", 
+    "  <li class=\"next\"><a href=\"#\">Newer &rarr;</a></li>", 
+    "</ul>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

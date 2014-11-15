@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "jumbotron", 
+  "value": [
+    "<div class=\"jumbotron\">", 
+    "  <h1>!@#_anchorHello, world!!@#_currentPos</h1>", 
+    "  <p>...</p>", 
+    "  <p><a class=\"btn btn-primary btn-lg\" role=\"button\">Learn more</a></p>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

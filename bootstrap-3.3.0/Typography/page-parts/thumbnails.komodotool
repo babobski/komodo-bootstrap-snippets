@@ -1,0 +1,21 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "thumbnails", 
+  "value": [
+    "<div class=\"row\">", 
+    "  <div class=\"col-xs-6 col-md-3\">", 
+    "    <a href=\"#\" class=\"thumbnail\">", 
+    "      !@#_anchor<img data-src=\"holder.js/100%x180\" alt=\"...\">!@#_currentPos", 
+    "    </a>", 
+    "  </div>", 
+    "  ...", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

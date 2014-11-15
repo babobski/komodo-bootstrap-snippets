@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "btn-group-justified", 
+  "value": [
+    "<div class=\"btn-group btn-group-justified\">", 
+    "  !@#_currentPos!@#_anchor", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

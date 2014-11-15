@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "nav-pills", 
+  "value": [
+    "<ul class=\"nav nav-pills\">", 
+    "  <li class=\"active\"><a href=\"#\">!@#_anchorHome!@#_currentPos</a></li>", 
+    "</ul>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

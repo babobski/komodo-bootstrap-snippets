@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "list-group-linked", 
+  "value": [
+    "<div class=\"list-group\">", 
+    "  <a href=\"#\" class=\"list-group-item active\">", 
+    "    !@#_anchorCras justo odio!@#_currentPos", 
+    "  </a>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "navbar-btn", 
+  "value": [
+    "<button type=\"button\" class=\"btn btn-default navbar-btn\">!@#_anchorSign in!@#_currentPos</button>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

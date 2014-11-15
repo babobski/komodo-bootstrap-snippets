@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "input-checkbox", 
+  "value": [
+    "<div class=\"input-group\">", 
+    "      <span class=\"input-group-addon\">", 
+    "        <input type=\"checkbox\" !@#_currentPos!@#_anchor>", 
+    "      </span>", 
+    "      <input type=\"text\" class=\"form-control\">", 
+    "    </div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

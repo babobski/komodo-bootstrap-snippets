@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "tooltip-right", 
+  "value": [
+    "data-toggle=\"tooltip\" data-placement=\"right\" title=\"!@#_anchorTooltip on right!@#_currentPos\""
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

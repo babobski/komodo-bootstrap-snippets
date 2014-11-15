@@ -1,0 +1,22 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "input-dropdown", 
+  "value": [
+    "<div class=\"input-group\">", 
+    "      <div class=\"input-group-btn\">", 
+    "        <button type=\"button\" class=\"btn btn-default dropdown-toggle\" data-toggle=\"dropdown\">!@#_anchorAction!@#_currentPos <span class=\"caret\"></span></button>", 
+    "        <ul class=\"dropdown-menu\" role=\"menu\">", 
+    "          <li><a href=\"#\"></a></li>", 
+    "        </ul>", 
+    "      </div>", 
+    "      <input type=\"text\" class=\"form-control\">", 
+    "    </div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

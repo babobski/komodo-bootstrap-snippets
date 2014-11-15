@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "radio-inline", 
+  "value": [
+    "<label class=\"radio-inline\">", 
+    "  <input type=\"radio\" name=\"\" id=\"\" value=\"\"> !@#_currentPos!@#_anchor", 
+    "</label>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

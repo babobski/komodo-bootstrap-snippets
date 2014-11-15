@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "list-group-cstom", 
+  "value": [
+    "<div class=\"list-group\">", 
+    "  <a href=\"#\" class=\"list-group-item active\">", 
+    "    <h4 class=\"list-group-item-heading\">!@#_anchorList group item heading!@#_currentPos</h4>", 
+    "    <p class=\"list-group-item-text\">...</p>", 
+    "  </a>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

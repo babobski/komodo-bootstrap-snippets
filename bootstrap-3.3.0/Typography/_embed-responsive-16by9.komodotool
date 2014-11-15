@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": " embed-responsive-16by9", 
+  "value": [
+    "<div class=\"embed-responsive embed-responsive-16by9\">", 
+    "  !@#_anchor<iframe class=\"embed-responsive-item\" src=\"\u2026\"></iframe>!@#_currentPos", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

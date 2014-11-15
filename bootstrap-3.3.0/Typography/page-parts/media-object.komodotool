@@ -1,0 +1,22 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "media-object", 
+  "value": [
+    "<div class=\"media\">", 
+    "  <a class=\"pull-left\" href=\"#\">", 
+    "    <img class=\"media-object\" src=\"...\" alt=\"...\">", 
+    "  </a>", 
+    "  <div class=\"media-body\">", 
+    "    <h4 class=\"media-heading\">!@#_anchorMedia heading!@#_currentPos</h4>", 
+    "    ...", 
+    "  </div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

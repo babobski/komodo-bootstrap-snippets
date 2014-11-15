@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "alert-dismissible", 
+  "value": [
+    "<div class=\"alert alert-warning alert-dismissible\" role=\"alert\">", 
+    "  <button type=\"button\" class=\"close\" data-dismiss=\"alert\"><span aria-hidden=\"true\">&times;</span><span class=\"sr-only\">Close</span></button>", 
+    "  <strong>Warning!</strong> !@#_anchorBetter check yourself, you're not looking too good.!@#_currentPos", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

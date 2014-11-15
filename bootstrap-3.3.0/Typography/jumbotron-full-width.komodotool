@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "jumbotron-full-width", 
+  "value": [
+    "<div class=\"jumbotron\">", 
+    "  <div class=\"container\">", 
+    "    !@#_anchor...!@#_currentPos", 
+    "  </div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

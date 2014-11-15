@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "radio", 
+  "value": [
+    "<div class=\"radio\">", 
+    "  <label>", 
+    "    <input type=\"radio\" name=\"\" id=\"\" value=\"\" checked>", 
+    "    !@#_currentPos!@#_anchor", 
+    "  </label>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

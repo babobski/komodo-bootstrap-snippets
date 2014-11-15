@@ -1,0 +1,25 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "button-loading", 
+  "value": [
+    "<button type=\"button\" id=\"loading-example-btn\" data-loading-text=\"Loading...\" class=\"btn btn-primary\">", 
+    "  !@#_anchorLoading state!@#_currentPos", 
+    "</button>", 
+    "<script>", 
+    "  $('#loading-example-btn').click(function () {", 
+    "    var btn = $(this)", 
+    "    btn.button('loading')", 
+    "    $.ajax(...).always(function () {", 
+    "      btn.button('reset')", 
+    "    });", 
+    "  });", 
+    "</script>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
+}

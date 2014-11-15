@@ -1,0 +1,24 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "button-toggle-radio", 
+  "value": [
+    "<div class=\"btn-group\" data-toggle=\"buttons\">", 
+    "  <label class=\"btn btn-primary active\">", 
+    "    <input type=\"radio\" name=\"options\" id=\"option1\" checked> !@#_anchorOption 1 (preselected)!@#_currentPos", 
+    "  </label>", 
+    "  <label class=\"btn btn-primary\">", 
+    "    <input type=\"radio\" name=\"options\" id=\"option2\"> Option 2", 
+    "  </label>", 
+    "  <label class=\"btn btn-primary\">", 
+    "    <input type=\"radio\" name=\"options\" id=\"option3\"> Option 3", 
+    "  </label>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

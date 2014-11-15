@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "breadcrumb", 
+  "value": [
+    "<ol class=\"breadcrumb\">", 
+    "  <li><a href=\"#\">!@#_anchorHome!@#_currentPos</a></li>", 
+    "  <li><a href=\"#\">Library</a></li>", 
+    "  <li class=\"active\">Data</li>", 
+    "</ol>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

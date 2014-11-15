@@ -1,0 +1,28 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "tab", 
+  "value": [
+    "<!-- Nav tabs -->", 
+    "<ul class=\"nav nav-tabs\" role=\"tablist\">", 
+    "  <li class=\"active\"><a href=\"#home\" role=\"tab\" data-toggle=\"tab\">!@#_anchorHome!@#_currentPos</a></li>", 
+    "  <li><a href=\"#profile\" role=\"tab\" data-toggle=\"tab\">Profile</a></li>", 
+    "  <li><a href=\"#messages\" role=\"tab\" data-toggle=\"tab\">Messages</a></li>", 
+    "  <li><a href=\"#settings\" role=\"tab\" data-toggle=\"tab\">Settings</a></li>", 
+    "</ul>", 
+    "", 
+    "<!-- Tab panes -->", 
+    "<div class=\"tab-content\">", 
+    "  <div class=\"tab-pane active\" id=\"home\">...</div>", 
+    "  <div class=\"tab-pane\" id=\"profile\">...</div>", 
+    "  <div class=\"tab-pane\" id=\"messages\">...</div>", 
+    "  <div class=\"tab-pane\" id=\"settings\">...</div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,23 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "panel-default-list-group", 
+  "value": [
+    "<div class=\"panel panel-default\">", 
+    "  <div class=\"panel-heading\">!@#_anchorPanel heading!@#_currentPos</div>", 
+    "  <div class=\"panel-body\">", 
+    "    <p>...</p>", 
+    "  </div>", 
+    "", 
+    "  <ul class=\"list-group\">", 
+    "    <li class=\"list-group-item\">Cras justo odio</li>", 
+    "  </ul>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

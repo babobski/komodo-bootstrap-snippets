@@ -1,0 +1,25 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Custom-content", 
+  "value": [
+    "<div class=\"row\">", 
+    "  <div class=\"col-sm-6 col-md-4\">", 
+    "    <div class=\"thumbnail\">", 
+    "      !@#_anchor<img data-src=\"holder.js/300x300\" alt=\"...\">!@#_currentPos", 
+    "      <div class=\"caption\">", 
+    "        <h3>Thumbnail label</h3>", 
+    "        <p>...</p>", 
+    "        <p><a href=\"#\" class=\"btn btn-primary\" role=\"button\">Button</a> <a href=\"#\" class=\"btn btn-default\" role=\"button\">Button</a></p>", 
+    "      </div>", 
+    "    </div>", 
+    "  </div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

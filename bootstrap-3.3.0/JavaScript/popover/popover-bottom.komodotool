@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "popover-bottom", 
+  "value": [
+    "data-container=\"body\" data-toggle=\"popover\" data-placement=\"bottom\" data-content=\"!@#_anchorVivamus sagittis lacus vel augue laoreet rutrum faucibus.!@#_currentPos\""
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

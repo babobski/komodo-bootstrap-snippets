@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "navbar-static-top", 
+  "value": [
+    "<nav class=\"navbar navbar-default navbar-static-top\" role=\"navigation\">", 
+    "  <div class=\"container\">", 
+    "    !@#_currentPos!@#_anchor", 
+    "  </div>", 
+    "</nav>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

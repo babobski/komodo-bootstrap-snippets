@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "popover-dismiss-click", 
+  "value": [
+    "<a href=\"#\" tabindex=\"0\" class=\"btn btn-lg btn-danger\" data-toggle=\"popover\" data-trigger=\"focus\" title=\"Dismissible popover\" data-content=\"!@#_anchorAnd here's some amazing content. It's very engaging. Right?!@#_currentPos\">Dismissible popover</a>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

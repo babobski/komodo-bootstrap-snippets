@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "blockquote-reverse", 
+  "value": [
+    "<blockquote class=\"blockquote-reverse\">", 
+    "  <p>!@#_currentPos!@#_anchor</p>", 
+    "  <footer></footer>", 
+    "</blockquote>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

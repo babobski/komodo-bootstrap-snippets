@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "Basic block / pre", 
+  "value": [
+    "<pre>&lt;p&gt;!@#_anchorSample text here...!@#_currentPos&lt;/p&gt;</pre>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "table-condensed", 
+  "value": [
+    "<div class=\"table-responsive\">", 
+    "\t<table class=\"table table-condensed\">", 
+    "\t<tr>", 
+    "\t\t!@#_currentPos!@#_anchor", 
+    "\t</tr>", 
+    "  </table>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

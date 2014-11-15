@@ -1,0 +1,21 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "panel-default", 
+  "value": [
+    "<div class=\"panel panel-default\">", 
+    "  <div class=\"panel-heading\">", 
+    "    <h3 class=\"panel-title\">!@#_anchorPanel title!@#_currentPos</h3>", 
+    "  </div>", 
+    "  <div class=\"panel-body\">", 
+    "    Panel content", 
+    "  </div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}
