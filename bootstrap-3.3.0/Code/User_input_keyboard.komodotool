@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "User input / keyboard", 
   "value": [
-    "<kbd><kbd>ctrl</kbd> + <kbd>c!@#_currentPos!@#_anchor</kbd></kbd>"
+    "<kbd><kbd>[[%tabstop:ctrl]]</kbd> [[%tabstop:+]] <kbd>[[%tabstop:c!@#_currentPos!@#_anchor]]</kbd></kbd>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

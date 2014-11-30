@@ -2,7 +2,7 @@
   "keyboard_shortcut": "", 
   "name": "popover-bottom", 
   "value": [
-    "data-container=\"body\" data-toggle=\"popover\" data-placement=\"bottom\" data-content=\"!@#_anchorVivamus sagittis lacus vel augue laoreet rutrum faucibus.!@#_currentPos\""
+    "data-container=\"body\" data-toggle=\"popover\" data-placement=\"bottom\" [[%tabstop:title=\"\"!@#_currentPos!@#_anchor]] data-content=\"[[%tabstop:Vivamus sagittis lacus vel augue laoreet rutrum faucibus.]]\""
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 

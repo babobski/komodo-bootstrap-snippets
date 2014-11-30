@@ -3,17 +3,17 @@
   "name": "radio", 
   "value": [
     "<div class=\"radio\">", 
-    "  <label>", 
-    "    <input type=\"radio\" name=\"\" id=\"\" value=\"\" checked>", 
-    "    !@#_currentPos!@#_anchor", 
-    "  </label>", 
+    "\t<label>", 
+    "\t\t<input type=\"radio\" name=\"[[%tabstop:]]\" id=\"[[%tabstop:]]\" value=\"[[%tabstop:]]\" [[%tabstop:checked]]>", 
+    "\t\t[[%tabstop:!@#_currentPos!@#_anchor]]", 
+    "\t</label>", 
     "</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

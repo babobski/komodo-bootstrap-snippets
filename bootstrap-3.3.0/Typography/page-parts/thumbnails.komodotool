@@ -4,18 +4,18 @@
   "value": [
     "<div class=\"row\">", 
     "  <div class=\"col-xs-6 col-md-3\">", 
-    "    <a href=\"#\" class=\"thumbnail\">", 
-    "      !@#_anchor<img data-src=\"holder.js/100%x180\" alt=\"...\">!@#_currentPos", 
+    "    <a href=\"[[%tabstop:#]]\" class=\"thumbnail\">", 
+    "      <img data-src=\"[[%tabstop:holder.js/100%x180]]\" alt=\"[[%tabstop:...]]\">", 
     "    </a>", 
     "  </div>", 
-    "  ...", 
+    "  [[%tabstop:...!@#_currentPos!@#_anchor]]", 
     "</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

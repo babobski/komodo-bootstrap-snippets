@@ -3,14 +3,14 @@
   "name": "radio-inline", 
   "value": [
     "<label class=\"radio-inline\">", 
-    "  <input type=\"radio\" name=\"\" id=\"\" value=\"\"> !@#_currentPos!@#_anchor", 
+    "\t<input type=\"radio\" name=\"[[%tabstop:]]\" id=\"[[%tabstop:]]\" value=\"[[%tabstop:!@#_currentPos!@#_anchor]]\"> ", 
     "</label>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

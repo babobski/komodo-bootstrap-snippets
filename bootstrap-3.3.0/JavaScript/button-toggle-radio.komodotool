@@ -3,22 +3,22 @@
   "name": "button-toggle-radio", 
   "value": [
     "<div class=\"btn-group\" data-toggle=\"buttons\">", 
-    "  <label class=\"btn btn-primary active\">", 
-    "    <input type=\"radio\" name=\"options\" id=\"option1\" checked> !@#_anchorOption 1 (preselected)!@#_currentPos", 
+    "  <label class=\"btn btn-[[%tabstop:primary]] [[%tabstop:active]]\">", 
+    "    <input type=\"radio\" name=\"[[%tabstop:options]]\" id=\"[[%tabstop:option1]]\" [[%tabstop:checked]]> [[%tabstop:Option 1 (preselected)]]", 
     "  </label>", 
-    "  <label class=\"btn btn-primary\">", 
-    "    <input type=\"radio\" name=\"options\" id=\"option2\"> Option 2", 
+    "  <label class=\"btn btn-[[%tabstop:primary]]\">", 
+    "    <input type=\"radio\" name=\"[[%tabstop:options]]\" id=\"[[%tabstop:option2]]\"> [[%tabstop:Option 2]]", 
     "  </label>", 
-    "  <label class=\"btn btn-primary\">", 
-    "    <input type=\"radio\" name=\"options\" id=\"option3\"> Option 3", 
+    "  <label class=\"btn btn-[[%tabstop:primary]]\">", 
+    "    <input type=\"radio\" name=\"[[%tabstop:options]]\" id=\"[[%tabstop:option3]]\"> [[%tabstop:Option 3!@#_currentPos!@#_anchor]]", 
     "  </label>", 
     "</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

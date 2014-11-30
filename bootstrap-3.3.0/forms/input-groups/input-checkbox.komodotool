@@ -3,11 +3,11 @@
   "name": "input-checkbox", 
   "value": [
     "<div class=\"input-group\">", 
-    "      <span class=\"input-group-addon\">", 
-    "        <input type=\"checkbox\" !@#_currentPos!@#_anchor>", 
-    "      </span>", 
-    "      <input type=\"text\" class=\"form-control\">", 
-    "    </div>"
+    "\t<span class=\"input-group-addon\">", 
+    "\t\t<input type=\"checkbox\"[[%tabstop:]]>", 
+    "\t</span>", 
+    "\t<input type=\"[[%tabstop:text]]\" class=\"form-control\">", 
+    "</div>!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 

@@ -3,15 +3,15 @@
   "name": "pager-block", 
   "value": [
     "<ul class=\"pager\">", 
-    "  <li class=\"previous\"><a href=\"#\">&larr; !@#_currentPosOlder!@#_anchor</a></li>", 
-    "  <li class=\"next\"><a href=\"#\">Newer &rarr;</a></li>", 
+    "  <li class=\"previous\"><a href=\"[[%tabstop:#]]\">[[%tabstop:&larr; Older]]</a></li>", 
+    "  <li class=\"next\"><a href=\"[[%tabstop:#]]\">[[%tabstop:Newer &rarr;!@#_currentPos!@#_anchor]]</a></li>", 
     "</ul>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

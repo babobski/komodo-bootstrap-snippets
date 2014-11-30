@@ -3,11 +3,11 @@
   "name": "li-dropdown", 
   "value": [
     " <li class=\"dropdown\">", 
-    "    <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"#\">", 
-    "      !@#_anchorDropdown!@#_currentPos <span class=\"caret\"></span>", 
+    "    <a class=\"dropdown-toggle\" data-toggle=\"dropdown\" href=\"[[%tabstop:#]]\">", 
+    "      [[%tabstop:Dropdown]] <span class=\"caret\"></span>", 
     "    </a>", 
     "    <ul class=\"dropdown-menu\" role=\"menu\">", 
-    "      ...", 
+    "      [[%tabstop:...!@#_currentPos!@#_anchor]]", 
     "    </ul>", 
     "  </li>"
   ], 

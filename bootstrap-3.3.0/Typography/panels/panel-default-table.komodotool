@@ -3,20 +3,20 @@
   "name": "panel-default-table", 
   "value": [
     "<div class=\"panel panel-default\">", 
-    "  <div class=\"panel-heading\">!@#_anchorPanel heading!@#_currentPos</div>", 
+    "  <div class=\"panel-heading\">[[%tabstop:Panel heading]]</div>", 
     "  <div class=\"panel-body\">", 
-    "    <p>...</p>", 
+    "    <p>[[%tabstop:...]]</p>", 
     "  </div>", 
     "  <table class=\"table\">", 
-    "    ...", 
+    "    [[%tabstop:...!@#_currentPos!@#_anchor]]", 
     "  </table>", 
     "</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

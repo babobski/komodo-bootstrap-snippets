@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "alert-danger", 
   "value": [
-    "<div class=\"alert alert-danger\" role=\"alert\">!@#_anchor...!@#_currentPos</div>"
+    "<div class=\"alert alert-danger\" role=\"alert\">[[%tabstop:...!@#_currentPos!@#_anchor]]</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "tooltip-left", 
   "value": [
-    "data-toggle=\"tooltip\" data-placement=\"left\" title=\"!@#_anchorTooltip on left!@#_currentPos\""
+    "data-toggle=\"tooltip\" data-placement=\"left\" title=\"[[%tabstop:Tooltip on left!@#_currentPos!@#_anchor]]\""
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

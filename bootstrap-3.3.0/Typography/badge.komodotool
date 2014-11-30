@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "badge", 
   "value": [
-    "<a href=\"#\">!@#_anchorInbox!@#_currentPos <span class=\"badge\">42</span></a>"
+    "<a href=\"[[%tabstop:#]]\">[[%tabstop:Inbox]] <span class=\"badge\">[[%tabstop:42!@#_currentPos!@#_anchor]]</span></a>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

@@ -3,15 +3,15 @@
   "name": "blockquote", 
   "value": [
     "<blockquote>", 
-    "  <p>!@#_currentPos!@#_anchor</p>", 
-    "  <footer></footer>", 
+    "  <p>[[%tabstop:]]</p>", 
+    "  <footer>[[%tabstop:!@#_currentPos!@#_anchor]]</footer>", 
     "</blockquote>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

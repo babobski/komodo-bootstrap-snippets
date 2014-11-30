@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "popover-left", 
   "value": [
-    "data-container=\"body\" data-toggle=\"popover\" data-placement=\"left\" data-content=\"!@#_anchorVivamus sagittis lacus vel augue laoreet rutrum faucibus.!@#_currentPos\""
+    "data-container=\"body\" data-toggle=\"popover\" data-placement=\"left\" [[%tabstop:title=\"\"]] data-content=\"[[%tabstop:Vivamus sagittis lacus vel augue laoreet rutrum faucibus.!@#_currentPos!@#_anchor]]\""
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

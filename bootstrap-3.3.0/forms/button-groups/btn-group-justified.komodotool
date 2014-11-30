@@ -3,7 +3,9 @@
   "name": "btn-group-justified", 
   "value": [
     "<div class=\"btn-group btn-group-justified\">", 
-    "  !@#_currentPos!@#_anchor", 
+    "\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Left]]</button>", 
+    "\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Middle]]</button>", 
+    "\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Right]]</button>!@#_currentPos!@#_anchor", 
     "</div>"
   ], 
   "set_selection": "true", 

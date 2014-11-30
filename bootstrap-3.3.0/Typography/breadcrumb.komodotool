@@ -3,16 +3,16 @@
   "name": "breadcrumb", 
   "value": [
     "<ol class=\"breadcrumb\">", 
-    "  <li><a href=\"#\">!@#_anchorHome!@#_currentPos</a></li>", 
-    "  <li><a href=\"#\">Library</a></li>", 
-    "  <li class=\"active\">Data</li>", 
+    "  <li><a href=\"[[%tabstop:#]]\">[[%tabstop:Home]]</a></li>", 
+    "  <li><a href=\"[[%tabstop:#]]\">[[%tabstop:Library]]</a></li>", 
+    "  <li class=\"active\">[[%tabstop:Data!@#_currentPos!@#_anchor]]</li>", 
     "</ol>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

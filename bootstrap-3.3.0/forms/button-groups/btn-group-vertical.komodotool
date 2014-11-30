@@ -3,7 +3,9 @@
   "name": "btn-group-vertical", 
   "value": [
     "<div class=\"btn-group-vertical\">", 
-    "  !@#_currentPos!@#_anchor", 
+    "!@#_anchor\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Left]]</button>", 
+    "\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Middle]]</button>", 
+    "\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Right]]</button>!@#_currentPos", 
     "</div>"
   ], 
   "set_selection": "true", 

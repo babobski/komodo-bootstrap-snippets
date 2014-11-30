@@ -3,16 +3,16 @@
   "name": "jumbotron", 
   "value": [
     "<div class=\"jumbotron\">", 
-    "  <h1>!@#_anchorHello, world!!@#_currentPos</h1>", 
-    "  <p>...</p>", 
-    "  <p><a class=\"btn btn-primary btn-lg\" role=\"button\">Learn more</a></p>", 
+    "  <h1>[[%tabstop:Hello, world!]]</h1>", 
+    "  <p>[[%tabstop:...]]</p>", 
+    "  <p><a class=\"btn btn-[[%tabstop:primary]] [[%tabstop:btn-lg]]\" role=\"button\">[[%tabstop:Learn more!@#_currentPos!@#_anchor]]</a></p>", 
     "</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

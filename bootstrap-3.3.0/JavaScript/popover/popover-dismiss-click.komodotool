@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "popover-dismiss-click", 
   "value": [
-    "<a href=\"#\" tabindex=\"0\" class=\"btn btn-lg btn-danger\" data-toggle=\"popover\" data-trigger=\"focus\" title=\"Dismissible popover\" data-content=\"!@#_anchorAnd here's some amazing content. It's very engaging. Right?!@#_currentPos\">Dismissible popover</a>"
+    "<a href=\"[[%tabstop:#]]\" tabindex=\"0\" class=\"btn btn-lg btn-[[%tabstop:danger]]\" data-toggle=\"popover\" data-trigger=\"focus\" title=\"[[%tabstop:Dismissible popover]]\" data-content=\"[[%tabstop:And here's some amazing content. It's very engaging. Right?]]\">[[%tabstop:Dismissible popover!@#_currentPos!@#_anchor]]</a>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

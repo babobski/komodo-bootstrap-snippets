@@ -3,9 +3,9 @@
   "name": "btn-group", 
   "value": [
     "<div class=\"btn-group\">", 
-    "  <button type=\"button\" class=\"btn btn-default\">!@#_anchorLeft!@#_currentPos</button>", 
-    "  <button type=\"button\" class=\"btn btn-default\">Middle</button>", 
-    "  <button type=\"button\" class=\"btn btn-default\">Right</button>", 
+    "\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Left]]</button>", 
+    "\t<button type=\"button\"!@#_currentPos!@#_anchor class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Middle]]</button>", 
+    "\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Right]]</button>", 
     "</div>"
   ], 
   "set_selection": "true", 
@@ -14,5 +14,5 @@
   "icon": "chrome://komodo/skin/images/snippet.png", 
   "type": "snippet", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "auto_abbreviation": "true"
 }

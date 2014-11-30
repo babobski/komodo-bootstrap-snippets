@@ -3,22 +3,22 @@
   "name": "button-toggle-checkbox", 
   "value": [
     "<div class=\"btn-group\" data-toggle=\"buttons\">", 
-    "  <label class=\"btn btn-primary active\">", 
-    "    <input type=\"checkbox\" checked> !@#_anchorOption 1 (pre-checked)!@#_currentPos", 
+    "  <label class=\"btn btn-[[%tabstop:primary]] [[%tabstop:active]]\">", 
+    "    <input type=\"checkbox\" [[%tabstop:checked]]> [[%tabstop:Option 1 (pre-checked)]]", 
     "  </label>", 
-    "  <label class=\"btn btn-primary\">", 
-    "    <input type=\"checkbox\"> Option 2", 
+    "  <label class=\"btn btn-[[%tabstop:primary]]\">", 
+    "    <input type=\"checkbox\"> [[%tabstop:Option 2]]", 
     "  </label>", 
-    "  <label class=\"btn btn-primary\">", 
-    "    <input type=\"checkbox\"> Option 3", 
+    "  <label class=\"btn btn-[[%tabstop:primary]]\">", 
+    "    <input type=\"checkbox\"> [[%tabstop:Option 3]]", 
     "  </label>", 
-    "</div>"
+    "</div>!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

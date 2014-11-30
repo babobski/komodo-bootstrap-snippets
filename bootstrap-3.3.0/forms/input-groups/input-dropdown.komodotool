@@ -3,14 +3,14 @@
   "name": "input-dropdown", 
   "value": [
     "<div class=\"input-group\">", 
-    "      <div class=\"input-group-btn\">", 
-    "        <button type=\"button\" class=\"btn btn-default dropdown-toggle\" data-toggle=\"dropdown\">!@#_anchorAction!@#_currentPos <span class=\"caret\"></span></button>", 
+    "    <div class=\"input-group-btn\">", 
+    "        <button type=\"button\" class=\"btn btn-[[%tabstop:default]] dropdown-toggle\" data-toggle=\"dropdown\">[[%tabstop:Action]] <span class=\"caret\"></span></button>", 
     "        <ul class=\"dropdown-menu\" role=\"menu\">", 
-    "          <li><a href=\"#\"></a></li>", 
+    "            <li><a href=\"[[%tabstop:#]]\"></a></li>", 
     "        </ul>", 
-    "      </div>", 
-    "      <input type=\"text\" class=\"form-control\">", 
-    "    </div>"
+    "    </div>", 
+    "    <input type=\"[[%tabstop:text!@#_currentPos!@#_anchor]]\" class=\"form-control\">", 
+    "</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 

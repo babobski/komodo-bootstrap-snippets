@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "well-sm", 
   "value": [
-    "<div class=\"well well-sm\">!@#_anchor...!@#_currentPos</div>"
+    "<div class=\"well well-sm\">[[%tabstop:...!@#_currentPos!@#_anchor]]</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

@@ -2,7 +2,7 @@
   "keyboard_shortcut": "", 
   "name": "Variables /Math", 
   "value": [
-    "<var>y</var> = <var>m</var><var>x</var> + <var>b</var>!@#_currentPos!@#_anchor"
+    "<var>[[%tabstop:y]]</var> [[%tabstop:=]] <var>[[%tabstop:m]]</var><var>[[%tabstop:x]]</var> [[%tabstop:+]] <var>[[%tabstop:b!@#_currentPos!@#_anchor]]</var>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 

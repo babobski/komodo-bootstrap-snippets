@@ -3,17 +3,17 @@
   "name": "input-botton", 
   "value": [
     "<div class=\"input-group\">", 
-    "      <span class=\"input-group-btn\">", 
-    "        <button class=\"btn btn-default\" type=\"button\">!@#_anchorGo!!@#_currentPos</button>", 
-    "      </span>", 
-    "      <input type=\"text\" class=\"form-control\">", 
-    "    </div>"
+    "\t<span class=\"input-group-btn\">", 
+    "            <button class=\"btn btn-[[%tabstop:default]]\" type=\"button\">[[%tabstop:Go!]]</button>", 
+    "\t</span>", 
+    "\t<input type=\"[[%tabstop:text]]\" class=\"form-control\">", 
+    "</div>!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

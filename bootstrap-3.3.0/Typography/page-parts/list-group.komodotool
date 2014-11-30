@@ -3,14 +3,14 @@
   "name": "list-group", 
   "value": [
     "<ul class=\"list-group\">", 
-    "  <li class=\"list-group-item\">!@#_anchorCras justo odio!@#_currentPos</li>", 
+    "  <li class=\"list-group-item\">[[%tabstop:Cras justo odio!@#_currentPos!@#_anchor]]</li>", 
     "</ul>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

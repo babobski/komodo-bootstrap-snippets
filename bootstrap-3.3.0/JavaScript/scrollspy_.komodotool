@@ -2,13 +2,13 @@
   "keyboard_shortcut": "", 
   "name": "scrollspy ", 
   "value": [
-    "<body data-spy=\"scroll\" data-target=\".navbar-example\">", 
+    "<body data-spy=\"scroll\" data-target=\"[[%tabstop:.navbar-example]]\">", 
     "  ...", 
-    "  <div class=\"navbar-example\">", 
+    "  <div class=\"[[%tabstop:navbar-example!@#_currentPos!@#_anchor]]\">", 
     "    <ul class=\"nav nav-tabs\" role=\"tablist\">", 
-    "      !@#_anchorbody {", 
+    "      [[%tabstop:body {", 
     "\t\t\t\tposition: relative;", 
-    "\t\t\t}!@#_currentPos", 
+    "\t\t\t}]]", 
     "    </ul>", 
     "  </div>", 
     "  ...", 
@@ -16,9 +16,9 @@
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

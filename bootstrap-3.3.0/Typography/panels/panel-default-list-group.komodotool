@@ -3,21 +3,21 @@
   "name": "panel-default-list-group", 
   "value": [
     "<div class=\"panel panel-default\">", 
-    "  <div class=\"panel-heading\">!@#_anchorPanel heading!@#_currentPos</div>", 
+    "  <div class=\"panel-heading\">[[%tabstop:Panel heading]]</div>", 
     "  <div class=\"panel-body\">", 
-    "    <p>...</p>", 
+    "    <p>[[%tabstop:...]]</p>", 
     "  </div>", 
     "", 
     "  <ul class=\"list-group\">", 
-    "    <li class=\"list-group-item\">Cras justo odio</li>", 
+    "    <li class=\"list-group-item\">[[%tabstop:Cras justo odio!@#_currentPos!@#_anchor]]</li>", 
     "  </ul>", 
     "</div>"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "chrome://komodo/skin/images/snippet.png"
 }

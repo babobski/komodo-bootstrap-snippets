@@ -3,7 +3,7 @@
   "name": "checkbox-inline", 
   "value": [
     "<label class=\"checkbox-inline\">", 
-    "  <input type=\"checkbox\" id=\"\" value=\"\"> !@#_currentPos!@#_anchor", 
+    "    <input type=\"checkbox\" id=\"[[%tabstop:]]\" value=\"[[%tabstop:!@#_currentPos!@#_anchor]]\"> ", 
     "</label>"
   ], 
   "set_selection": "true", 
