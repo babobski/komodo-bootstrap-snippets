@@ -1,0 +1,24 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-button toggle checkbox", 
+  "value": [
+    "<div class=\"btn-group\" data-toggle=\"buttons\">", 
+    "\t<label class=\"btn btn-[[%tabstop:primary]] [[%tabstop:active]]\">", 
+    "\t\t<input type=\"checkbox\" [[%tabstop:checked]]> [[%tabstop:Option 1 (pre-checked)]]", 
+    "\t</label>", 
+    "\t<label class=\"btn btn-[[%tabstop:primary]]\">", 
+    "\t\t<input type=\"checkbox\"> [[%tabstop:Option 2]]", 
+    "\t</label>", 
+    "\t<label class=\"btn btn-[[%tabstop:primary]]\">", 
+    "\t\t!@#_currentPos!@#_anchor<input type=\"checkbox\"> [[%tabstop:Option 3]]", 
+    "\t</label>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

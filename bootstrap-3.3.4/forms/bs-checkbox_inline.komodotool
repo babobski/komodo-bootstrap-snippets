@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-checkbox inline", 
+  "value": [
+    "<label class=\"checkbox-inline\">", 
+    "\t!@#_currentPos!@#_anchor<input type=\"checkbox\" id=\"[[%tabstop:]]\" value=\"[[%tabstop:]]\"> ", 
+    "</label>[[%tabstop:]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

@@ -1,0 +1,22 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-input dropdown group", 
+  "value": [
+    "<div class=\"input-group\">", 
+    "\t<div class=\"input-group-btn\">", 
+    "\t\t<button type=\"button\" class=\"btn btn-[[%tabstop:default]] dropdown-toggle\" data-toggle=\"dropdown\">[[%tabstop:Action]] <span class=\"caret\"></span></button>", 
+    "\t\t<ul class=\"dropdown-menu\" role=\"menu\">", 
+    "\t\t\t!@#_currentPos!@#_anchor<li><a href=\"[[%tabstop:#]]\"></a></li>", 
+    "\t\t</ul>", 
+    "\t</div>", 
+    "\t<input type=\"[[%tabstop:text]]\" class=\"form-control\">", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

@@ -1,0 +1,17 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-pager aligned ", 
+  "value": [
+    "<ul class=\"pager\">", 
+    "\t<li class=\"previous\"><a href=\"[[%tabstop:#]]\">[[%tabstop:&larr; Older]]</a></li>", 
+    "\t<li class=\"next\"><a href=\"[[%tabstop:#]]\">[[%tabstop:Newer &rarr;]]</a></li>", 
+    "</ul>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

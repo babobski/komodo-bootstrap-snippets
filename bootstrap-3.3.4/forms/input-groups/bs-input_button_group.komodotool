@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-input button group", 
+  "value": [
+    "<div class=\"input-group\">", 
+    "\t<span class=\"input-group-btn\">", 
+    "\t\t\t<button class=\"btn btn-[[!@#_currentPos!@#_anchor%tabstop:default]]\" type=\"button\">[[%tabstop:Go!]]</button>", 
+    "\t</span>", 
+    "\t<input type=\"[[%tabstop:text]]\" class=\"form-control\">", 
+    "</div>[[%tabstop:]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

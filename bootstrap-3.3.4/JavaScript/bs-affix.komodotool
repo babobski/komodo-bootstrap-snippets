@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-affix", 
+  "value": [
+    "<div data-spy=\"affix\" data-offset-top=\"[[%tabstop:60]]\" data-offset-bottom=\"[[%tabstop:200]]\">", 
+    "\t!@#_currentPos!@#_anchor[[%tabstop:...]]", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

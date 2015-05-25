@@ -1,0 +1,23 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-panel default list group", 
+  "value": [
+    "<div class=\"panel panel-default\">", 
+    "\t<div class=\"panel-heading\">[[%tabstop:Panel heading]]</div>", 
+    "\t<div class=\"panel-body\">", 
+    "\t\t<p>[[%tabstop:...]]</p>", 
+    "\t</div>", 
+    "\t", 
+    "\t<ul class=\"list-group\">", 
+    "\t\t<li class=\"list-group-item\">[[%tabstop:Cras justo odio]]</li>", 
+    "\t</ul>", 
+    "</div>[[%tabstop:!@#_currentPos!@#_anchor]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

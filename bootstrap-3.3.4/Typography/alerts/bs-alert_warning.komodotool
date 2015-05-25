@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-alert warning", 
+  "value": [
+    "<div class=\"alert alert-warning\" role=\"alert\">[[%tabstop:...]]</div>[[%tabstop:!@#_currentPos!@#_anchor]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

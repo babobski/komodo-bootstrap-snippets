@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-list-group", 
+  "value": [
+    "<ul class=\"list-group\">", 
+    "\t<li class=\"list-group-item\">[[%tabstop:Cras justo odio]]</li>[[%tabstop:!@#_currentPos!@#_anchor]]", 
+    "</ul>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

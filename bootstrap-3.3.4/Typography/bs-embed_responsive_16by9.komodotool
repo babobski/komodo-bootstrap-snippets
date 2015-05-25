@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-embed responsive 16by9", 
+  "value": [
+    "<div class=\"embed-responsive embed-responsive-16by9\">", 
+    "\t[[%tabstop:]]", 
+    "</div>[[%tabstop:!@#_currentPos!@#_anchor]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

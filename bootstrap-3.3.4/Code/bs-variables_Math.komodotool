@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-variables / Math", 
+  "value": [
+    "<var>[[%tabstop:y]]</var> [[%tabstop:=]] <var>[[%tabstop:m]]</var><var>[[%tabstop:x]]</var> [[%tabstop:+]] <var>[[%tabstop:b]]</var>[[%tabstop:!@#_currentPos!@#_anchor]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

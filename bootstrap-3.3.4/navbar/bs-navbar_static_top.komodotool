@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-navbar static top", 
+  "value": [
+    "<nav class=\"navbar navbar-default navbar-static-top\" role=\"navigation\">", 
+    "\t<div class=\"container\">", 
+    "\t\t[[%tabstop:...!@#_currentPos!@#_anchor]]", 
+    "\t</div>", 
+    "</nav>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

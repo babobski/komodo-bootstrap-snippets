@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-btn toolbar", 
+  "value": [
+    "<div class=\"btn-toolbar\" role=\"toolbar\">", 
+    "\t<div class=\"btn-group\">", 
+    "\t\t[[%tabstop:]]!@#_currentPos!@#_anchor", 
+    "\t</div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

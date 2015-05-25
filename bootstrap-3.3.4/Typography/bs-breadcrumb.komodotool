@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-breadcrumb", 
+  "value": [
+    "<ol class=\"breadcrumb\">", 
+    "\t<li><a href=\"[[%tabstop:#]]\">[[%tabstop:Home]]</a></li>", 
+    "\t<li><a href=\"[[%tabstop:#]]\">[[%tabstop:Library]]</a></li>", 
+    "\t<li class=\"acti!@#_currentPos!@#_anchorve\">[[%tabstop:Data]]</li>", 
+    "</ol>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

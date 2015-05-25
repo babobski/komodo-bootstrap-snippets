@@ -1,0 +1,16 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-list inline", 
+  "value": [
+    "<ul class=\"list-inline\">", 
+    "  <li>[[%tabstop:]]</li>", 
+    "</ul>[[%tabstop:!@#_currentPos!@#_anchor]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

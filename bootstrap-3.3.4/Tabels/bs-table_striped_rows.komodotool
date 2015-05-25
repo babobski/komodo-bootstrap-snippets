@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-table striped rows", 
+  "value": [
+    "<div class=\"table-responsive\">", 
+    "\t<table class=\"table table-striped\">", 
+    "\t\t[[%tabstop:...!@#_currentPos!@#_anchor]]", 
+    "\t</table>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "auto_abbreviation": "false", 
+  "treat_as_ejs": "false", 
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+}

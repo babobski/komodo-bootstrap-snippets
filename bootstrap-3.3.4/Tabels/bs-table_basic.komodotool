@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-table basic", 
+  "value": [
+    "<div class=\"table-responsive\">", 
+    "\t<table class=\"table\">", 
+    "\t\t[[%tabstop:...!@#_currentPos!@#_anchor]]", 
+    "\t</table>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}
