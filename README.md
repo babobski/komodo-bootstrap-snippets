@@ -2,7 +2,7 @@ Komodo Edit / Ide Bootstrap snippets
 =========================
 
 Bootstrap 3.3.4 snippets collection for Komodo edit / ide
-  ###snippets included
+  <h3>snippets included</h3>
   <pre>
   <b>bootstrap-3.3.4/</b>
 	<b>Components/</b>
