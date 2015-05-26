@@ -1,6 +1,6 @@
 {
   "keyboard_shortcut": "", 
-  "name": "progress-bar-animated", 
+  "name": "bs-progress bar animated", 
   "value": [
     "<div class=\"progress\">", 
     "  <div class=\"progress-bar progress-bar-striped active\"  role=\"progressbar\" aria-valuenow=\"[[%tabstop:45]]\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"[[%tabstop:width: 45%]]\">", 
@@ -10,9 +10,9 @@
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "auto_abbreviation": "false", 
-  "treat_as_ejs": "false", 
-  "type": "snippet", 
   "indent_relative": "true", 
-  "icon": "chrome://komodo/skin/images/snippet.png"
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
 }
