@@ -1,0 +1,20 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-container", 
+  "value": [
+    "<div class=\"container\">", 
+    "\t<div class=\"row\">", 
+    "\t\t<div class=\"col-[[%tabstop:sm]]-[[%tabstop:12]]\">", 
+    "\t\t\t[[%tabstop:!@#_currentPos!@#_anchor]]", 
+    "\t\t</div>", 
+    "\t</div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

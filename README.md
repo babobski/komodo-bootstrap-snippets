@@ -2,10 +2,23 @@ Komodo Edit / Ide Bootstrap snippets
 =========================
 
 Bootstrap 3.3.4 snippets collection for Komodo edit / ide
+
+<h3>Usage</h3>
+<h5>Drag & drop or doubble click</h5>
+You can insert the snippets by drag and drop or by double clicking on the snippet
+<h5>Search for Snippet</h5>
+By hitting <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>k</kbd> a search window will popup, when you type 'bs-' all the bootstrap snippets will be shown.
+This is a fast way to search inside your snippets.
+<h5>Insert snippet by name</h5>
+A other way is using the insert snippet by name shortcode.  
+If you type bs-col and hit the command <kbd>ctrl</kbd> + <kbd>t</kbd> the snippet will be included in your code.
+
+
+
   <h3>snippets included</h3>
   <pre>
   <b>bootstrap-3.3.4/</b>
-	<b>Components/</b>
+	<b>Components/</b> 
 		<b>Alerts/</b>
 			bs-alert danger
 			bs-alert dismissible
@@ -91,6 +104,10 @@ Bootstrap 3.3.4 snippets collection for Komodo edit / ide
 			bs-help block
 			bs-radio
 			bs-radio inline
+		<b>Grid system/</b>
+			bs-col
+			bs-container
+			bs-row
 		<b>Tables/</b>
 			bs-table basic
 			bs-table bordered

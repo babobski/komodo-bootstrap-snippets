@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-row", 
+  "value": [
+    "<div class=\"row\">", 
+    "\t<div class=\"col-[[%tabstop:sm]]-[[%tabstop:12]]\">", 
+    "\t\t[[%tabstop:]]", 
+    "\t</div>", 
+    "</div>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "false", 
+  "version": "1.0.12", 
+  "indent_relative": "false", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}
