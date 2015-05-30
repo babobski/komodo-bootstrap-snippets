@@ -27,6 +27,7 @@ The commands to search for:
 * Insert abbreviation snippet by name (default assigned to <kbd>ctrl</kbd> + <kbd>t</kbd>)
 * Open commando with the tools and command scope (default assigned to <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>k</kbd>)
 * Open commando with the tools scope (not assigned)
+
 <br><br>
 <h5>add key bindings to snippet</h5>
 to add key bindings to a snippet, for instance you want the gird system snippets on key bindings for a fast workflow, 
