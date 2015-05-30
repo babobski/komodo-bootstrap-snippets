@@ -1,9 +1,10 @@
 Komodo Edit / Ide Bootstrap snippets
 =========================
 
-Bootstrap 3.3.4 snippets collection for Komodo edit / ide.  
-Easy to use, you can add the snippets on different ways. 
-Use <kbd>Tab</kbd> to jump true the editable area's, 
+Bootstrap 3.3.4 snippets collection for Komodo edit / ide.   
+Easy to use, you can add the snippets on different ways.
+<br>
+Use <kbd>Tab</kbd> to jump true the editable area's,  
 if you want to clear all tab stops you can hit the <kbd>Esc</kbd> key.
 
 <h3>Usage</h3>
@@ -26,7 +27,8 @@ The commands to search for:
 * Insert abbreviation snippet by name (default assigned to <kbd>ctrl</kbd> + <kbd>t</kbd>)
 * Open commando with the tools and command scope (default assigned to <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>k</kbd>)
 * Open commando with the tools scope (not assigned)
-  <br><br>
+
+<br><br>
 <h5>add key bindings to snippet</h5>
 to add key bindings to a snippet, for instance you want the gird system snippets on key bindings for a fast workflow, 
 you can add a key binding to a snippet by right clicking on a snippet, go to properties and you will see here a tab key binding,
