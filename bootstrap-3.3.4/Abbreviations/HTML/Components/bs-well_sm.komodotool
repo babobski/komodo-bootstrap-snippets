@@ -1,14 +1,12 @@
 {
   "keyboard_shortcut": "", 
-  "name": "bs-col", 
+  "name": "bs-well sm", 
   "value": [
-    "<div class=\"col-[[%tabstop:sm]]-[[%tabstop:12]]\">", 
-    "\t!@#_currentPos!@#_anchor[[%tabstop:]]", 
-    "</div>"
+    "<div class=\"well well-sm\">[[%tabstop:...]]</div>[[%tabstop:!@#_currentPos!@#_anchor]]"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "auto_abbreviation": "true", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
   "type": "snippet", 
   "indent_relative": "true", 

@@ -1,0 +1,18 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-progress bar animated", 
+  "value": [
+    "<div class=\"progress\">", 
+    "  <div class=\"progress-bar progress-bar-striped active\"  role=\"progressbar\" aria-valuenow=\"[[%tabstop:45]]\" aria-valuemin=\"0\" aria-valuemax=\"100\" style=\"[[%tabstop:width: 45%]]\">", 
+    "    <span class=\"sr-only\">[[%tabstop:45%!@#_currentPos!@#_anchor]] Complete</span>", 
+    "  </div>", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

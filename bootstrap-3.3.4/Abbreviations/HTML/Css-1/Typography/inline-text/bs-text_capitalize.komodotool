@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-text capitalize", 
+  "value": [
+    "<p class=\"text-capitalize\">[[%tabstop:Capitalized text.]]</p>[[%tabstop:!@#_currentPos!@#_anchor]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

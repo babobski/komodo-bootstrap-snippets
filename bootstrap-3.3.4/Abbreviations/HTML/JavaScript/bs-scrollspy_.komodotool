@@ -1,0 +1,24 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-scrollspy ", 
+  "value": [
+    "<body data-spy=\"scroll\" data-target=\"[[%tabstop:.navbar-example]]\">", 
+    "\t...", 
+    "\t<div class=\"[[%tabstop:navbar-example]]\">", 
+    "\t\t<ul class=\"nav nav-tabs\" role=\"tablist\">", 
+    "\t\t  [[%tabs!@#_currentPos!@#_anchortop:body {", 
+    "\t\t\t\t\tposition: relative;", 
+    "\t\t\t\t}]]", 
+    "\t\t</ul>", 
+    "\t</div>", 
+    "\t...", 
+    "</body>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

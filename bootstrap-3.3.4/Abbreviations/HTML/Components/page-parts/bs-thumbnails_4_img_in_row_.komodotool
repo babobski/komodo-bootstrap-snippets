@@ -1,0 +1,21 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-thumbnails (4 img in row)", 
+  "value": [
+    "<div class=\"row\">", 
+    "\t<div class=\"col-xs-6 col-md-3\">", 
+    "\t\t<a href=\"[[%tabstop:#]]\" class=\"thumbnail\">", 
+    "\t\t\t<img data-src=\"[[%tabstop:holder.js/100%x180]]\" alt=\"[[%tabstop:...]]\">", 
+    "\t\t</a>", 
+    "\t</div>", 
+    "\t[[%tabstop:..!@#_currentPos!@#_anchor.]]", 
+    "</div>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

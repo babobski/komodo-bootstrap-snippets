@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-navbar form", 
+  "value": [
+    "<form class=\"navbar-form navbar-left\" role=\"search\">", 
+    "\t<div class=\"form-group\">", 
+    "\t\t<input type=\"text\" class=\"form-control\" placeholder=\"[[%tabstop:Search]]\">", 
+    "\t</div>", 
+    "\t<button type=\"submit\" class=\"btn btn-[[%tabstop:default]]\">[[%tabstop:Submit!@#_currentPos!@#_anchor]]</button>", 
+    "</form>"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

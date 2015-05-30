@@ -1,0 +1,14 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-alert link", 
+  "value": [
+    " <a href=\"[[%tabstop:#]]\" class=\"alert-link\">[[%tabstop:...]]</a>[[%tabstop:!@#_currentPos!@#_anchor]]"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}

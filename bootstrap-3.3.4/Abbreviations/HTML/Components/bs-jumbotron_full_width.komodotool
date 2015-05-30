@@ -1,14 +1,16 @@
 {
   "keyboard_shortcut": "", 
-  "name": "bs-col", 
+  "name": "bs-jumbotron full width", 
   "value": [
-    "<div class=\"col-[[%tabstop:sm]]-[[%tabstop:12]]\">", 
-    "\t!@#_currentPos!@#_anchor[[%tabstop:]]", 
-    "</div>"
+    "<div class=\"jumbotron\">", 
+    "\t<div class=\"container\">", 
+    "\t\t[[%tabstop:...]]", 
+    "\t</div>", 
+    "</div>[[%tabstop:!@#_currentPos!@#_anchor]]"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "auto_abbreviation": "true", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
   "type": "snippet", 
   "indent_relative": "true", 

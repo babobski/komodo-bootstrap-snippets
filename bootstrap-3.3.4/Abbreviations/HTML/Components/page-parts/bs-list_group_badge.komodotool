@@ -1,0 +1,19 @@
+{
+  "keyboard_shortcut": "", 
+  "name": "bs-list group badge", 
+  "value": [
+    "<ul class=\"list-group\">", 
+    "\t<li class=\"list-group-item\">", 
+    "\t\t<span class=\"badge\">[[%tabstop:14]]</span>", 
+    "\t\t[[%tabstop:Cras justo odio]]", 
+    "\t</li>", 
+    "</ul>!@#_currentPos!@#_anchor"
+  ], 
+  "set_selection": "true", 
+  "version": "1.0.12", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
+}
