@@ -8,9 +8,6 @@ Use <kbd>Tab</kbd> to jump true the editable area's,
 if you want to clear all tab stops you can hit the <kbd>Esc</kbd> key.
 
 <h3>Usage</h3>
-<h5>Drag & drop or double click</h5>
-You can insert the snippets by drag and drop or by double clicking on the snippet
-<br><br>
 <h5>Search for Snippet</h5>
 By hitting <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>k</kbd> a search window will popup, when you type 'bs-' all the bootstrap snippets will be shown.
 This is a fast way to search inside your snippets.
@@ -184,5 +181,4 @@ You can now use the Alt key in your shortcuts, you could use <kbd>alt</kbd> + <k
 		bs-modal
 		bs-scrolspy
 		bs-tab
-  
   </pre>
