@@ -8,18 +8,18 @@
     "\t\t<span class=\"caret\"></span>", 
     "\t</button>", 
     "\t<ul class=\"dropdown-menu\" role=\"menu\" aria-labelledby=\"[[%tabstop:dropdownMenu2]]\">", 
-    "\t\t<li role=\"presentation\"><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Action]]</a></li>", 
-    "\t\t<li role=\"presentation\"><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Another action]]</a></li>", 
-    "\t\t<li role=\"presentation\"><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Something else here]]</a></li>", 
-    "\t\t<li role=\"presentation\"><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Separated link]]</a></li>", 
+    "\t\t<li><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Action]]</a></li>", 
+    "\t\t<li><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Another action]]</a></li>", 
+    "\t\t<li><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Something else here]]</a></li>", 
+    "\t\t<li><a role=\"menuitem\" tabindex=\"-1\" href=\"[[%tabstop:#]]\">[[%tabstop:Separated link]]</a></li>", 
     "\t</ul>", 
     "</div>!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "false", 
   "version": "1.0.12", 
-  "indent_relative": "false", 
-  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "false", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
 }

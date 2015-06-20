@@ -12,16 +12,15 @@
     "        <li><a href=\"[[%tabstop:#]]\">[[%tabstop:Action]]</a></li>", 
     "        <li><a href=\"[[%tabstop:#]]\">[[%tabstop:Another action]]</a></li>", 
     "        <li><a href=\"[[%tabstop:#]]\">[[%tabstop:Something else here]]</a></li>", 
-    "        <li class=\"divider\"></li>", 
     "        <li><a href=\"[[%tabstop:#]]\">[[%tabstop:Separated link]]</a></li>", 
     "    </ul>", 
     "</div>!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "auto_abbreviation": "false", 
-  "treat_as_ejs": "false", 
-  "type": "snippet", 
   "indent_relative": "true", 
-  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
 }

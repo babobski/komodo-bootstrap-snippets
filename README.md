@@ -1,7 +1,7 @@
 Komodo Edit / Ide Bootstrap snippets
 =========================
 
-Bootstrap 3.3.4 snippets collection for Komodo edit / ide.   
+Bootstrap 3.3.5 snippets collection for Komodo edit / ide.   
 Easy to use, you can add the snippets on different ways.
 <br>
 Use <kbd>Tab</kbd> to jump true the editable area's,  

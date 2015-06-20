@@ -2,7 +2,7 @@
   "keyboard_shortcut": "", 
   "name": "bs-navbar fixed top", 
   "value": [
-    "<nav class=\"navbar navbar-default navbar-fixed-top\" role=\"navigation\">", 
+    "<nav class=\"navbar navbar-default navbar-fixed-top\">", 
     "\t<div class=\"container\">", 
     "\t\t[[%tabstop:body { padding-top: 70px; }]]", 
     "\t</div>", 
@@ -10,9 +10,9 @@
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "indent_relative": "true", 
-  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
-  "type": "snippet", 
+  "auto_abbreviation": "false", 
   "treat_as_ejs": "false", 
-  "auto_abbreviation": "false"
+  "type": "snippet", 
+  "indent_relative": "true", 
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
 }

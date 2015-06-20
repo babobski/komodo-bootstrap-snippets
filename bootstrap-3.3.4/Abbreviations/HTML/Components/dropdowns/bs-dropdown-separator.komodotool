@@ -1,12 +1,8 @@
 {
   "keyboard_shortcut": "", 
-  "name": "bs-navbar fixed bottom", 
+  "name": "bs-dropdown-separator", 
   "value": [
-    "<nav class=\"navbar navbar-default navbar-fixed-bottom\">", 
-    "\t<div class=\"container\">", 
-    "\t\t[[%tabstop:body { padding-bottom: 70px; }]]", 
-    "\t</div>", 
-    "</nav>!@#_currentPos!@#_anchor"
+    "<li role=\"separator\" class=\"divider\"></li>[[%tabstop:!@#_currentPos!@#_anchor]]"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 

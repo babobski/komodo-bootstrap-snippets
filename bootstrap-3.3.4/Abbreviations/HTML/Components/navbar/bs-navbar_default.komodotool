@@ -6,13 +6,13 @@
     "\t<div class=\"container-fluid\">", 
     "\t\t<!-- Brand and toggle get grouped for better mobile display -->", 
     "\t\t<div class=\"navbar-header\">", 
-    "\t\t\t<button type=\"button\" class=\"navbar-toggle collapsed\" data-toggle=\"collapse\" data-target=\"#[[%tabstop:bs-example-navbar-collapse-1]]\">", 
+    "\t\t\t<button class=\"navbar-toggle collapsed\" type=\"button\" data-toggle=\"collapse\" data-target=\"#[[%tabstop:bs-example-navbar-collapse-1]]\" aria-expanded=\"false\">", 
     "\t\t\t\t<span class=\"sr-only\">[[%tabstop:Toggle navigation]]</span>", 
     "\t\t\t\t<span class=\"icon-bar\"></span>", 
     "\t\t\t\t<span class=\"icon-bar\"></span>", 
     "\t\t\t\t<span class=\"icon-bar\"></span>", 
     "\t\t\t</button>", 
-    "\t\t\t<a class=\"navbar-brand\" href=\"[[%tabstop:#!@#_currentPos!@#_anchor]]\">[[%tabstop:Brand]]</a>", 
+    "\t\t\t<a class=\"navbar-brand\" href=\"[[%tabstop:#]]\">[[%tabstop:Brand]]</a>", 
     "\t\t</div>", 
     "\t\t\t", 
     "\t\t<!-- Collect the nav links, forms, and other content for toggling -->", 
@@ -31,13 +31,13 @@
     "\t\t\t</ul>", 
     "\t\t</div><!-- /.navbar-collapse -->", 
     "\t</div><!-- /.container-fluid -->", 
-    "</nav>"
+    "</nav>!@#_currentPos!@#_anchor"
   ], 
   "set_selection": "true", 
   "version": "1.0.12", 
-  "auto_abbreviation": "false", 
-  "treat_as_ejs": "false", 
-  "type": "snippet", 
   "indent_relative": "true", 
-  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg"
+  "icon": "koicon://ko-svg/chrome/icomoon/skin/bold2.svg", 
+  "type": "snippet", 
+  "treat_as_ejs": "false", 
+  "auto_abbreviation": "false"
 }
