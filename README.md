@@ -1,7 +1,7 @@
 Komodo Edit / Ide Bootstrap snippets
 =========================
 
-Bootstrap 3.3.5 snippets collection for Komodo edit / ide.   
+Bootstrap 3.3.6 snippets collection for Komodo edit / ide.   
 Easy to use, you can add the snippets on different ways.
 <br>
 Use <kbd>Tab</kbd> to jump true the editable area's,  
@@ -34,6 +34,11 @@ here you can set your key binding for the snippet.
 by going to **preferences > key bindings** and select the **remove Alt-<letter> shortcuts from menus**.  
 You can now use the Alt key in your shortcuts, you could use <kbd>alt</kbd> + <kbd>b</kbd>  + <kbd>r</kbd> for instance, for creating a row.
   <br><br>
+  ### Indentation
+  The indentation in the snippets are by default tab based, if you are using a different indentation there is a easy way to achieve this:  
+  #### Update all snippets to the right indentation
+  If you want to update all snippets to the indentation of your flavor, you can use the Beautify JS addon. You can configure the addon to your indentation, if you than edit the snippets(right click on snippet "edit snippet") and run the beautify over the snippets and save them, you will no longer have indentation issues.
+
   <h3>snippets included</h3>
   <pre>
   <b>bootstrap-3.3.4/</b>
