@@ -1,3 +1,4 @@
+![screenshot](banner.png)
 Komodo Edit / Ide Bootstrap snippets
 =========================
 
@@ -11,11 +12,15 @@ if you want to clear all tab stops you can hit the <kbd>Esc</kbd> key.
 <h5>Search for Snippet</h5>
 By hitting <kbd>ctrl</kbd> + <kbd>shift</kbd> + <kbd>k</kbd> a search window will popup, when you type 'bs-' all the bootstrap snippets will be shown.
 This is a fast way to search inside your snippets.
-<br><br>
+<br>
+![screenshot](screenshot01.png)
+<br>
 <h5>Insert snippet by name</h5>
 A other way is using the insert snippet by name short-code.  
 If you type bs-col and hit the command <kbd>ctrl</kbd> + <kbd>t</kbd> the snippet will be included in your code.
-<br><br>
+<br>
+![screenshot](inser-snippet-by-name.gif)
+<br>
 <h3>Setting up key bindings</h3>
 <h5>change or add key bindings to the search and insert snippet by name</h5>
 To change the key bindings for the search snippet command and insert snippet by name,  
@@ -37,7 +42,7 @@ You can now use the Alt key in your shortcuts, you could use <kbd>alt</kbd> + <k
   <h3>Indentation</h3>
   The indentation in the snippets are by default tab based, if you are using a different indentation there is a easy way to achieve this:  
   <h3>Update all snippets to the right indentation</h3>
-  If you want to update all snippets to the indentation of your flavor, you can use the Beautify JS addon. You can configure the addon to your indentation, if you than edit the snippets(right click on snippet "edit snippet") and run the beautify over the snippets and save them, you will no longer have indentation issues.
+  If you want to update all snippets to the indentation of your flavor, you can use the [Beautify JS](https://github.com/babobski/Beautify-js) addon. You can configure the addon to your indentation, if you than edit the snippets(right click on snippet "edit snippet") and run the beautify over the snippets and save them, you will no longer have indentation issues.
 
   <h3>snippets included</h3>
   <pre>
